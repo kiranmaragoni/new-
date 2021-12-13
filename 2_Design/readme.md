@@ -1,6 +1,5 @@
 # Design
 -----
-
 ## High-Level UML Diagrams
 **Component Structure diagram**
 
